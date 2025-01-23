@@ -2,7 +2,7 @@
 
 ## Story 1 - Startup and HTML
 
-1. Create 2 Files (1 HTML, 1 JavaScript, 1 CSS)
+1. Create 3 Files (1 HTML, 1 JavaScript, 1 CSS)
 2. Set up HTML file first. `!` + `TAB`.
 3. Create an H1 tag with RPS as the Header and a container to hold everything
     - Make sure that IDs are added to the divs with the notion we will go back and add css AND need to target elements for DOM Scripting
